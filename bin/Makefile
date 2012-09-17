@@ -1,4 +1,4 @@
-NAME		=		chess
+NAME		=		Frabul
 
 INCLUDE		=		../includes
 
